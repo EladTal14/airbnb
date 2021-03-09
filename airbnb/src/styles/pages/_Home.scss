@@ -1,0 +1,19 @@
+.hero {
+  background-color: rgb(24, 24, 24);
+  img {
+    width: 95%;
+    margin-top: 44px;
+  }
+}
+.white {
+  color: white;
+  font-family: Akaya_Telivigala;
+}
+.home-category {
+  img {
+    width: 270px;
+    // object-fit: contain;
+    height: 270px;
+    border-radius: 10px;
+  }
+}
